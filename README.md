@@ -6,7 +6,7 @@ Estou iniciando a oportunidade de aprender do zero e com web design/front end.
 
 Porém acrescentei algumas informações extras no exercício para o treino pessoal. 
 
-[Clique aqui para acessar](https://brunoconstancio.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar](https://brunoconstancio.github.io/Origamid-html-css-posicionamento/)
 
 ## Tecnologia 
 
