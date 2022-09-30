@@ -1,5 +1,5 @@
 # Exercicio-03-Origamid 
-#Tela Inicial
+# Tela Inicial
 
 Front End, HTML, Tags, CSS, Grid, Layout, Flexbox, VS Code.
 
