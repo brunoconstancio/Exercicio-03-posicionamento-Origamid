@@ -99,34 +99,38 @@ p {
 
  .vantagens-item {
   display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 20px 20px;
+  grid-template-columns: auto, 1fr;
+  gap: 10px 20px;
   padding: 20px;
-  background:#ffffff;
-  text-align: center;
+  
+  
  }
 
  .vantagens-item p {
-  text-align: center;
+  grid-column: 2;
+  
  }
 
  ul {
   list-style: none;
  }
 
-section {
-  background-color: #fff;
+.section {
+  display: grid;
   padding: 10px;
   padding-top: 10px;
   border-radius: 8px;
+  Text-align: center;
+  align-self: center;
  }
 
-section ul {
+ section ul {
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
-  
   }
+
+
 
   section ul li {
   transition: transform .3s;
@@ -138,7 +142,9 @@ section ul li:hover {
   }
 
  .rodape { 
+  background: #fff;
   width: 100%;
   text-align: center;
   padding: 30px;
+  box-sizing: border-box;
 }
